@@ -1,2 +1,3 @@
- #Project for Security Network class
- Implements a chat over simulation with Diffie–Hellman key exchange
+ ## Project for Security Network class
+ 
+ Implements a two client chat to test Diffie–Hellman key exchange
